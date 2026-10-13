@@ -1,10 +1,10 @@
 {
-  "id": "./",
+  "id": "/Inspection-Call/",
   "name": "Inspection Call",
   "short_name": "Inspection",
   "description": "Raise inspection calls and view inspection history.",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/Inspection-Call/",
+  "scope": "/Inspection-Call/",
   "display": "standalone",
   "background_color": "#f3f6fc",
   "theme_color": "#173ea5",
